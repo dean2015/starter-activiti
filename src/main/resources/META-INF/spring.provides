@@ -1,0 +1,1 @@
+provides: activiti-spring-boot-starter-basic, activiti-spring-boot-starter-rest-api, activiti-spring-boot-starter-actuator, activiti-spring-boot-starter-jpa
